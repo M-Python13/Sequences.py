@@ -26,4 +26,5 @@ Queries or ideas with the code already updated or requests to merge my code with
 | Prime Numbers  | :+1:  |
 | Fibonacci Numbers  | :+1:  |
 | Triangular Numbers  | :+1:  |
+| Lucas Numbers  | :+1:  |
 
