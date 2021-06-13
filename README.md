@@ -2,6 +2,7 @@
 This is a repository conatining a range of functions for mathematical sequences made with Python. Feel free to use it for your own use. I will be updating it regularly, hopefully with all the code in one at some stage in the future.
 
 **THIS IS ALL MY WORK AND HAS NOT BEEN PILFERED FROM ANYWHERE**
+It's just for a bit of fun, I would recommend actually using professional Python libaries instead for your own work, but that doesn't mean you can't use mine either.
 
 Queries or ideas with the code already updated or requests to merge my code with your version with your versions go [here](https://github.com/M-Python13/Sequences.py/pulls). Issues, queries or ideas without any code modifications you may have with any of the programs go [here](https://github.com/M-Python13/Sequences.py/issues).
 
