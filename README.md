@@ -3,7 +3,7 @@ This is a repository conatining a range of functions for sequences made with Pyt
 
 **THIS IS ALL MY WORK AND HAS NOT BEEN PILFERED FROM ANYWHERE**
 
-Queries, ideas and requests to merge my work with your versions go [here](https://github.com/M-Python13/Sequences.py/pulls). Issues you may have with any of the programs go [here](https://github.com/M-Python13/Sequences.py/issues).
+Queries or ideas with the code already updated or requests to merge my code with your version with your versions go [here](https://github.com/M-Python13/Sequences.py/pulls). Issues, queries or ideas without any code modifications you may have with any of the programs go [here](https://github.com/M-Python13/Sequences.py/issues).
 
 | Sequence  | Status |
 | ------------- | ------------- |
