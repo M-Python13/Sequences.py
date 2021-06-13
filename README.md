@@ -16,7 +16,7 @@ Queries or ideas with the code already updated or requests to merge my code with
 | Multiplying any integer  | :+1:  |
 | Doubling  | :+1:  |
 | Dividing any integer  | :+1:  |
-| Halfing (/2)  | :+1:  |
+| Halving (/2)  | :+1:  |
 | Squaring  | :+1:  |
 | Cubing  | :+1:  |
 | Any Power  | :+1:  |
