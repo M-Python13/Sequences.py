@@ -1,5 +1,5 @@
 # Sequences.py v.1.3.0
-This is a repository conatining a range of functions for sequences made with Python. Feel free to use it for your own use. I will be updating it regularly, hopefully with all the code in one at some stage in the future.
+This is a repository conatining a range of functions for mathematical sequences made with Python. Feel free to use it for your own use. I will be updating it regularly, hopefully with all the code in one at some stage in the future.
 
 **THIS IS ALL MY WORK AND HAS NOT BEEN PILFERED FROM ANYWHERE**
 
