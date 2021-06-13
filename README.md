@@ -27,4 +27,5 @@ Queries or ideas with the code already updated or requests to merge my code with
 | Fibonacci Numbers  | :+1:  |
 | Triangular Numbers  | :+1:  |
 | Lucas Numbers  | :+1:  |
+| Lazy Caterer's Sequence  | :+1:  |
 
