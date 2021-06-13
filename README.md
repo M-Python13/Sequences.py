@@ -1,4 +1,4 @@
-# Sequences.py v.1.0.3
+# Sequences.py 
 This is a repository conatining a range of functions for sequences made with Python. Feel free to use it for your own use. I will be updating it regularly, hopefully with all the code in one at some stage in the future.
 
 **THIS IS ALL MY WORK AND HAS NOT BEEN PILFERED FROM ANYWHERE**
