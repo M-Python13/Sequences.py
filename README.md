@@ -11,7 +11,7 @@ Queries or ideas with the code already updated or requests to merge my code with
 | Adding one  | :+1: |
 | Adding two  | :+1:  |
 | Adding any integer  | :+1:  |
-| Addigng by an increasing number  | :+1:  |
+| Adding by an increasing number  | :+1:  |
 | Subtracting one  | :+1:  |
 | Subtracting two  | :+1:  |
 | Subtracting any integer  | :+1:  |
