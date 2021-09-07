@@ -16,7 +16,7 @@ Queries or ideas with the code already updated or requests to merge my code with
 | Subtracting two  | :+1:  |
 | Subtracting any integer  | :+1:  |
 | Multiplying any integer  | :+1:  |
-| Doubling  | :+1:  |
+| Doubling (x2)  | :+1:  |
 | Dividing any integer  | :+1:  |
 | Halving (/2)  | :+1:  |
 | Squaring  | :+1:  |
