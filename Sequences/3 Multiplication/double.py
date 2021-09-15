@@ -1,0 +1,12 @@
+#double a number
+def double():
+    start = float(input("Number you want to double at first:"))
+    terms = int(input("Number of terms? (excluding starting number)"))
+    counter = 0
+    print(start)
+    while counter < terms:
+            start *= 2
+            print(start) 
+            counter += 1
+
+double()
